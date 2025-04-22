@@ -7,7 +7,7 @@ export function EmptyScreen() {
         <h1 className="text-2xl sm:text-3xl tracking-tight font-semibold max-w-fit inline-block">
           Namami Gange Chatbot
         </h1>
-        <p className="leading-normal text-zinc-900">
+{/*         <p className="leading-normal text-zinc-900">
           This is an open source AI chatbot app template built with{' '}
           <ExternalLink href="https://nextjs.org">Next.js</ExternalLink>, the{' '}
           <ExternalLink href="https://sdk.vercel.ai">
@@ -28,7 +28,7 @@ export function EmptyScreen() {
           from Gemini. The UI state is synced through the AI SDK so the model is
           always aware of your stateful interactions as they happen in the
           browser.
-        </p>
+        </p> */}
       </div>
     </div>
   )
